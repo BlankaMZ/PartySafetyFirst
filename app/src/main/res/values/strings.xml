@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PartySafetyFirst</string>
+    <string name="new_party">New Party!</string>
+    <string name="old_parties">Old parties</string>
+    <string name="start_party">Start Party!</string>
+    <string name="enter_name_of_the_party">Enter name of the party...</string>
+    <string name="alcohol_name">Finlandia</string>
+    <string name="alcohol_type">Vodka</string>
+    <string name="new_alcohol">New alcohol</string>
+</resources>
